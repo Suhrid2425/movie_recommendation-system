@@ -5,7 +5,7 @@ import requests
 import numpy as np # Added to handle joining the matrix parts
 
 # 🔐 Replace with your API key
-API_KEY = "YOUR_API_KEY"
+API_KEY = "8265bd1679663a7ea12ac168da84d2e8&language=en-US"
 
 
 # ✅ Fetch poster using movie NAME (fixes ID issue)
